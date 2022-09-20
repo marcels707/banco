@@ -1,0 +1,15 @@
+com\banco\persona\model\User.class
+com\banco\persona\controller\ClientController.class
+com\banco\persona\repository\ClientRepository.class
+com\banco\persona\service\ClientService.class
+com\banco\persona\repository\UserRepository.class
+com\banco\persona\PruebaApplication.class
+com\banco\persona\util\Validate.class
+com\banco\persona\util\Validator.class
+com\banco\persona\controller\UserController.class
+com\banco\persona\model\Account.class
+com\banco\persona\exception\UnprocessableEntity.class
+com\banco\persona\service\UserService.class
+com\banco\persona\model\AccountMov.class
+com\banco\persona\exception\NotFound.class
+com\banco\persona\model\Client.class
